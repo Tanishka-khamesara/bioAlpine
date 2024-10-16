@@ -1,5 +1,6 @@
 import React from 'react'
-import learning from '../assets/learning1.jpg'
+import learning from "../assets/Learnings.jpg"
+
 function AboutLearning() {
     return (
         <>
@@ -15,9 +16,7 @@ function AboutLearning() {
                     </div>
                     <div className='about-right'>
                         <h3>Our Story</h3>
-                        <p> In remembrance of her late husband and Mr. Varatharajan, Mrs. Subbulakshmi Varatharajan founded the VRM Learning and Development Center.
-                            Subbulakshmi is passionate about using cutting edge technology to create lessons that are intended for the future.
-                            Using her twenty-five years of information technology experience, she hopes to develop education for the future.  </p>
+                        <p> In honor of her late husband, Mrs. Subbulakshmi Varatharajan established the VRM Learning and Development Center. With a deep passion for leveraging cutting-edge technology, she aims to create forward-thinking educational experiences. Drawing on her 25 years of expertise in information technology, Subbulakshmi is committed to shaping the future of education.  </p>
                     </div>
                 </div>
 
