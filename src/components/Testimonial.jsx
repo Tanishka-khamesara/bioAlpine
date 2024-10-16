@@ -166,17 +166,17 @@ function Testimonial() {
     },
     {
       id: 5,
-      image: 'https://media.licdn.com/dms/image/v2/C5612AQGf5a898pJkMA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1563437210254?e=2147483647&v=beta&t=SJ9yijVHsdnXVaMWYBzeisoCBcoaVodFXqG1nflJbuY',
-      name: 'Emily White',
-      title: 'Designer, Creative Agency',
-      text: 'A truly creative and inspiring team. The final product was better than I could have imagined!'
+      image: 'https://images.geekster.in/student/mayank.png',
+      name: 'Mayank Gupta',
+      title: 'Software Engineer, BrightChamps',
+      text: `Geekster taught me in months what years of college work couldn't teach me. They honed my technical and non-technical skills, build my confidence and gave me a flavor of what it would look like working in the industry.`
     },
     {
       id: 6,
-      image: 'https://i.ytimg.com/vi/KBo__6zXU6k/maxresdefault.jpg',
-      name: 'David Johnson',
-      title: 'Marketing Head, Global Corp',
-      text: 'Professional, reliable, and excellent at what they do. I couldn’t be happier with the service provided.'
+      image: 'https://geekster-website-images.s3.ap-south-1.amazonaws.com/nishant.jpeg',
+      name: 'Nishant Budia',
+      title: 'Senior Process Developer, JAR',
+      text: 'I thought , i will join some institute and transform to IT field and join top-tech companies within 2-3 years but with Geeksters easy to understand curriculum, mentors and constant guidance I could crack the job at Genpact'
     },
   ];
 
