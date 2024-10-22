@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import logo from '../assets/VRM-logo.png';
+import logo from '../assets/logo.png';
 
 function Navbar() {
   const [isVisible, setIsVisible] = useState(true); // Track visibility of the navbar

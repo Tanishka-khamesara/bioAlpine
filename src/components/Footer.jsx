@@ -1,5 +1,6 @@
 import React from 'react';
-import logo from '../assets/VRM-logo.png';
+// import logo from '../assets/VRM-logo.png';
+import logo from '../assets/logo.png';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import FacebookIcon from '@mui/icons-material/Facebook';
 import RedditIcon from '@mui/icons-material/Reddit';
@@ -10,8 +11,7 @@ function Footer() {
             <footer className="footer-container" >
                 <div className="footer-section about">
                     <div className="footer-title">
-                        <h2>VRM Foundation</h2>
-                        <img src={logo} alt="VRM Foundation Logo" />
+                         <img src={logo} alt="BioAlpine" />
                     </div>
                 </div>
                 <div className="footer-content">
@@ -33,9 +33,9 @@ function Footer() {
                     </div>
                     <div className="footer-section contact">
                         <div className="footer-title">Contact Us</div>
-                        <p>Email: info@vrmfoundation.com</p>
+                        <p>Email: info@BioAlpine.com</p>
                         <p>Phone: +91 12345 67890</p>
-                        <p>GoodWorks Infinity Park - Coworking Space <br/> Managed Office <br /> Virtual Office in Electronic City - 080887 07700</p>
+                        
                     </div>
                 </div>
 
@@ -45,7 +45,7 @@ function Footer() {
             <div className="sub-footer">
                 <div className="footer-bottom">
                     <div className='sub-footer-left'>
-                        <p> Copyright © 2024 Vrm Learning and development centre  - All Rights Reserved.</p>
+                        <p> Copyright © 2024 bioAlpine - All Rights Reserved.</p>
                     </div>
                     <div className="social-icons">
                         <ul>
