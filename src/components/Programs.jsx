@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaCartPlus, FaHeart } from 'react-icons/fa'; // Add these for action icons
-import pr from "../assets/pr.png";
+import pr from "../assets/Pr.png";
 import pr2 from "../assets/pr2.png";
 import pr3 from "../assets/pr3.png";
 import pr4 from "../assets/pr4.png";
