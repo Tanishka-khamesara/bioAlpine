@@ -13,7 +13,7 @@ function Courses() {
           <div className="courses-details">
             <div className="course-1">
               <img
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWFZM_cKihfTCYoPUqT6TI8m3-7SQMQE-puw&s"
+                src="https://tse3.mm.bing.net/th?id=OIP.A6G3gha-Ur0jKcLhMQ-wEQHaDr&pid=Api&P=0&h=180"
                 alt=""
               />
               <h3>Non-GMO feed</h3>
@@ -26,7 +26,7 @@ function Courses() {
             </div>
             <div className="course-2">
               <img
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmR3l9TlDC2bK5h-0Iplz3SK55Dw-FhBFmYA&s"
+                src="https://tse2.mm.bing.net/th?id=OIP.5xOX4L1Hc2loeHH2M44JVQHaE7&pid=Api&P=0&h=180"
                 alt=""
               />
               <h3>Free-Range</h3>
@@ -38,7 +38,7 @@ function Courses() {
             </div>
             <div className="course-3">
               <img
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvxvV450mt6W4n4ZOKt9h9pcnhI2ppjeO-iw&s"
+                src="https://media.istockphoto.com/id/1477219382/vector/no-added-hormones-label-hormone-free-icon-natural-organic-certificated-product-sign-healthy.jpg?s=1024x1024&w=is&k=20&c=wEilJkf2zi89RsSDHPGV3sLFS4rtNd2_RrWQWis2ZA4="
                 alt=""
               />
               <h3>No Growth Hormones</h3>
@@ -50,7 +50,7 @@ function Courses() {
             </div>
             <div className="course-4">
               <img
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSDpLusv6MTRwdrrl9aOcF90xMnJFGbFh8SV6smKb3ZeDl5NUxhabo7xa1WqmGxQZcAtg&usqp=CAU"
+                src="https://tse1.mm.bing.net/th?id=OIP.ra_gilKZwLLUnvQubxQj7QAAAA&pid=Api&P=0&h=180"
                 alt=""
               />
               <h3>Animal welfare</h3>
@@ -62,7 +62,7 @@ function Courses() {
             </div>
             <div>
               <img
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGkC-fSX68VK8rqMQLXRjUu0vZd2wwGkHQaA&s"
+                src="https://tse1.mm.bing.net/th?id=OIP.JlZDcrGcWd3bwTtF4VT33AHaEs&pid=Api&P=0&h=180"
                 alt=""
               />
               <h3>Ecological</h3>
@@ -73,7 +73,7 @@ function Courses() {
             </div>
             <div>
               <img
-                src="https://www.aluminati.net/wp-content/uploads/2023/05/Screenshot-2023-05-17-091542-e1684311559909.jpg"
+                src="https://health2016.globalchange.gov/sites/default/files/styles/large_figure/public/figure/f1-cropped_18.png?itok=C1DzSHeF"
                 alt=""
               />
               <h3>Sustainable</h3>

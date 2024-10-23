@@ -11,22 +11,22 @@ import pr8 from "../assets/pr8.png";
 import pr9 from "../assets/pr9.png"; 
 
 const products = [
-  { img: pr, description: "Product 1", name: "Product 1" },
-  { img: pr2, description: "Product 2", name: "Product 2" },
-  { img: pr3, description: "Product 3", name: "Product 3" },
-  { img: pr4, description: "Product 4", name: "Product 4" },
-  { img: pr5, description: "Product 5", name: "Product 5" },
-  { img: pr6, description: "Product 6", name: "Product 6" },
-  { img: pr7, description: "Product 7", name: "Product 7" },
-  { img: pr8, description: "Product 8", name: "Product 8" },
-  { img: pr9, description: "Product 9", name: "Product 9" },
+  { img: pr, description: "Blueberry", name: "Blueberry" },
+  { img: pr2, description: "vanilla", name: "Vanilla" },
+  { img: pr3, description: "Cafe Mocha", name: "Cafe Mocha" },
+  { img: pr4, description: "Expresso Roast", name: "Expresso Roast" },
+  { img: pr5, description: "Mango", name: "Mango" },
+  { img: pr6, description: "Strawberry", name: "Strawberry" },
+  { img: pr7, description: "Thai Coconut", name: "Thai Coconut" },
+  { img: pr8, description: "Unflavoured", name: "Unflavoured" },
+  { img: pr9, description: "Alpine Milk Chocolate", name: "Alpine Milk Chocolate" },
 ];
 
 function Programs() {
   return (
     <div className="programs-container" id='courses'>
       <div className='courses-header'>
-        <h1>Our Products</h1>
+        <h1>Our Flavours of Proteins</h1>
       </div>
       <div className="programs-main">
         <div className="image-gallery">
