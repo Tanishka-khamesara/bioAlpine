@@ -7,7 +7,7 @@ function Courses() {
       <div className="cources-container">
         <div className="course-main">
           <div className="courses-header">
-            <h1>What does it mean to be Organic?</h1>
+            <h1>What is this?</h1>
           </div>
 
           <div className="courses-details">
